@@ -74,7 +74,7 @@ resources:
       name: '{{ params.appName }}-search'
       resources:
         cpu: 500m
-        memory: 1Gi
+        memory: 2Gi
       image: getmeili/meilisearch:latest
       replicas: 1
       ports:
