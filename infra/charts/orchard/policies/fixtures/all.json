@@ -1338,7 +1338,8 @@
          "CHOWN",
          "FOWNER",
          "DAC_OVERRIDE",
-         "SYS_CHROOT"
+         "SYS_CHROOT",
+         "NET_BIND_SERVICE"
         ],
         "drop": [
          "ALL"
@@ -1430,7 +1431,8 @@
          "CHOWN",
          "FOWNER",
          "DAC_OVERRIDE",
-         "SYS_CHROOT"
+         "SYS_CHROOT",
+         "NET_BIND_SERVICE"
         ],
         "drop": [
          "ALL"
@@ -1602,7 +1604,8 @@
          "CHOWN",
          "FOWNER",
          "DAC_OVERRIDE",
-         "SYS_CHROOT"
+         "SYS_CHROOT",
+         "NET_BIND_SERVICE"
         ],
         "drop": [
          "ALL"
